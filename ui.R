@@ -2,7 +2,7 @@ library(shiny)
 library(dygraphs)
 
 shinyUI(fluidPage(
-  titlePanel("Simple Stock Charting App"),
+  titlePanel("Interest Rate APP"),
   
   sidebarLayout(
     sidebarPanel(
